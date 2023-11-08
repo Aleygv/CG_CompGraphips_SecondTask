@@ -1,4 +1,4 @@
-package com.cgvsu.rasterization;
+package com.cgvsu.algorithms;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.PixelWriter;
